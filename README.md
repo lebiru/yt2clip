@@ -1,3 +1,5 @@
+<img src="./media/logo.png" alt="drawing" width="200"/>
+
 # yt2clip 🎥🔀📁
 
 `yt2clip` is a Python script for downloading videos from YouTube and optionally converting them to various formats. This tool is designed for ease of use and efficiency, allowing batch downloads and format conversion with minimal hassle.
